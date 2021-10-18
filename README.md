@@ -8,9 +8,10 @@
 
 📚: I'm currently learning Ruby, Linux, Ruby on Rails, Heroku, Restful and AWS.
 
-##About me
+## About me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/ettore-scolar-neto-2550101b1/)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= Lhttps://www.linkedin.com/in/ettore-scolar-neto-2550101b1/))]( https://www.linkedin.com/in/ettore-scolar-neto-2550101b1/))
+
 
 - Thanks for visiting.
 
